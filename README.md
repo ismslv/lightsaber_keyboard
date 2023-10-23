@@ -1,5 +1,5 @@
-# lightsaber Keyboard v3.0
-EN-RU Keyboard layouts bundle
+# \|/ Lightsaber Keyboard v3.0
+Latin-Cyrillic custom designed keyboard layouts
 
 ![](keyboard_yu_mac_3.0.png)
 
