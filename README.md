@@ -9,7 +9,7 @@ Two keyboard layouts (latin and cyrillic letters), suitable for most european la
 
 `lighsaber_mod.bundle` is a file for [Ukelele Layout Editor](https://software.sil.org/ukelele/)
 
-`print_keyboard_yu_mac_3.0.pdf` and `eps` are fiels for printing (I've printed stickers for my MacBook.
+`print_keyboard_yu_mac_3.0.pdf` and `eps` are fiels for printing (I've printed vinyl stickers for my MacBook).
 
 `print_keyboard_yu_mac_3.0.afphoto` is a source file for Affinity Designer.
 
