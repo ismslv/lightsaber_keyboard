@@ -6,7 +6,12 @@ EN-RU Keyboard layouts bundle
 ## What it is?
 
 Two keyboard layouts (latin and cyrillic letters), suitable for most european languages and basic slavic languages typing.
+
 `lighsaber_mod.bundle` is a file for [Ukelele Layout Editor](https://software.sil.org/ukelele/)
+
+`print_keyboard_yu_mac_3.0.pdf` and `eps` are fiels for printing (I've printed stickers for my MacBook.
+
+`print_keyboard_yu_mac_3.0.afphoto` is a source file for Affinity Designer.
 
 The main idea is to have all punctuation in the same place in both layouts, and also to correct some strange traditions, as brackets or slashes being in different places.
 
