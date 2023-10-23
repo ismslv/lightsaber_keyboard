@@ -34,6 +34,8 @@ The main idea is to have all punctuation in the same place in both layouts, and 
 White is default value, blue is with `option` or `shift`&`option` modifiers, orange is in cyrillic.
 In general, `shift`&`option` is located on top of option.
 
-### Exclusions
+### Some exclusions
 
 - Number keys and `,`, `.` have alternative symbols in red instead of white to distinguish between basic and alternative symbol. From my experience, blue color here can confuse, because it would lead to think that it uses `option`. Note that in fact they use `shift`.
+- `щ`,`э`,`ю`,`ё`,`ч`,`ъ` are also red despite being produced with `option` modifier. This is to clearly distinguish cyrillic letters.
+- There are alternative designs in the source file. There is also a version where `ч` is on the `j` key and `й` is an _option_ for `и` key.
